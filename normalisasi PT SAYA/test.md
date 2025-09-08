@@ -1,5 +1,5 @@
 Hasil riset untuk data update harga komoditas
-
+<hr> </hr>
 Pembuat bagian ini markus dan azra
 
 untuk web yang kami Analisa yakni :
@@ -19,6 +19,8 @@ Kedua pada bagian element ini yang merupakan table dari data harga komoditas
 3.	thead
 
 Ketiga pada bagian thead atau header dari table tersebut yang berisi tanggal dari perkembangan harga komoditas tersebut
+
+
 4.	tbody
 
 Keempat pada bagian tiap tbody nya yang merupalkan kolom yang berisi nama komoditas dan harga tiap harinya
